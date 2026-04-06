@@ -1,0 +1,6 @@
+[user]
+	email = alexdubois.consulting@gmail.com
+	name = Alex Dubois
+[http]
+	postBuffer = 524288000
+	sslVerify = false
